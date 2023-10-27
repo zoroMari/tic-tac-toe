@@ -2,8 +2,8 @@
 
 Tic-Tac-Toe is a simple web application created with React.
 
-![tic-tac-toe](../public/main.png)
-![tic-tac-toe](../public/win.png)
+![tic-tac-toe](./public/main.png)
+![tic-tac-toe](./public/win.png)
 
 You can check out a live demo of the app at https://zoromari.github.io/tic-tac-toe/
 
