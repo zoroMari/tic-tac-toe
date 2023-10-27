@@ -20,13 +20,12 @@ Before you begin, ensure you have the following software installed:
 1. Clone this repository to your local machine:
 
 2. Navigate to the project directory:
-cd expense-manager
+cd tic-tac-toe
 
 3. Install project dependencies:
 npm install
 
-Running the App
-To start the Expense Manager app on your local development environment, run the following command:
-npm start
+### Running the App
 
-The app will launch at http://localhost:3000.
+To start the Tic-Tac-Toe app on your local development environment, run the following command:
+npm run dev
